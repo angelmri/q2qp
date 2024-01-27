@@ -329,7 +329,7 @@ header{
 }
 /* sprite icons */
 .icon{
-    background: url(/media/sprite3.png);
+    background: url(media/sprite3.png);
     background-repeat: no-repeat;  
     width: 66px;
     height: 66px;
